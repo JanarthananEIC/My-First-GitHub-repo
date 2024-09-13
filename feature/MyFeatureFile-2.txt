@@ -1,3 +1,8 @@
 File 2 Contents under Feature folder
 Updated File for 3rd Commit
+<<<<<<< HEAD
 Local Changes for 4th Commit
+=======
+
+GitHub Repo Update for 4th Commit
+>>>>>>> 2eb70261898737d128f76c3adfaec76197a2ea5a
